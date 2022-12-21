@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.search {
+  text-align: center;
+  margin: 0 auto;
+  background-color: rgb(238, 238, 238);
+}
+
+input {
+  border: 1px inset rgb(118, 118, 118);
+  width: 250px;
+}
+
+button {
+  padding: 1px 6px;
+  border-width: 1px;
+}
+
+td div {
+  text-align: center;
+}
+
+.input2 {
+  /* position: relative; */
+  /* top: -30px; */
+}
+.button {
+  text-align: center;
+  /* position: relative;
+  top: -30px; */
+}
+
+table {
+  width: 100%;
+  margin: 0 auto;
+  border: 0px;
+}
+
+footer {
+  text-align: center;
+}
+::placeholder {
+  color: black;
+}
+.box2 {
+  padding: 5px 0;
+}
+
+td:first-child,
+td:last-child {
+  width: 40%;
+}
